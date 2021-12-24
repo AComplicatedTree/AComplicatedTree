@@ -1,3 +1,9 @@
-Hi, I’m @AComplicatedTree
+Hi, I’m [@AComplicatedTree#4337](795977947558182954) on discord!
 
-I use discord during my free time and started coding recently. I am currently working on two discord bots and a website!
+I am 15 years old and like using discord during my free time!
+I recently started coding and I'm working on two discord bots and a website.
+
+**Projects**
+[Website](https://acomplicatedtree.github.io)
+[RuAlg Bot](https;//acomplicatedtree.github.io/rualg/invite)
+And Rokula which is in early stages.
