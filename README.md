@@ -4,6 +4,6 @@ I am 15 years old and like using discord during my free time!
 I recently started coding and I'm working on two discord bots and a website.
 
 **Projects**
-[Website](https://acomplicatedtree.github.io)
-[RuAlg Bot](https;//acomplicatedtree.github.io/rualg/invite)
+[Website](https://acomplicatedtree.github.io) </br>
+[RuAlg Bot](https;//acomplicatedtree.github.io/rualg/invite) </br>
 And Rokula which is in early stages.
