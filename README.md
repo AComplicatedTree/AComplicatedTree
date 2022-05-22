@@ -5,7 +5,6 @@ I recently started coding and I'm working on two discord bots and a website.
 
 ## Projects </br>
 > 🌐 [Website](https://acomplicatedtree.github.io) </br>
-> 🤖 [RuAlg Bot](https;//acomplicatedtree.github.io/rualg/invite) </br>
 > 🔗 [AComplicatedPlace](https://discord.gg)
 
 #### All projects are currently private and are a wip.
